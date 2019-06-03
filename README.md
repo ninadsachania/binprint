@@ -2,7 +2,7 @@
 
 ## Aim
 
-`binprint.py` takes a decimal number (for now) and converts it to a binary number and a decimal number (again, for now). 
+`binprint.py` takes a decimal number (for now) and converts it to a binary number and a hexadecimal number (again, for now). 
 
 ## Usage
 
