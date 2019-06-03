@@ -30,7 +30,7 @@ def dec_to_bin(number: int) -> str:
     digits.reverse()
 
     # Return the binary number as a string
-    return ''.join(str(x) for x in digits)
+    return '0b' + ''.join(str(x) for x in digits)
 
 
 for number in NUMBERS:
